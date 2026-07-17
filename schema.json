@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CryptoPressRelease Headline Generator",
+  "description": "An AI-powered tool to generate compelling, newsworthy, and SEO-friendly headlines for cryptocurrency, blockchain, Web3, NFT, DeFi, and fintech press releases.",
+  "url": "https://www.buycryptopressrelease.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BuyCryptoPressRelease.com",
+    "url": "https://www.buycryptopressrelease.com",
+    "sameAs": [
+      "https://github.com/buycryptopressrelease",
+      "https://npmjs.com/package/@buycryptopressrelease/headline-generator",
+      "https://huggingface.co/datasets/buycryptopressrelease/headline-generator-benchmarks",
+      "https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks",
+      "https://buycryptopressrelease.github.io/CryptoPressreleaseHeadlineGenerator/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/buycryptopressrelease/CryptoPressreleaseHeadlineGenerator",
+  "keywords": [
+    "crypto press release",
+    "headline generator",
+    "blockchain PR",
+    "Web3 headlines",
+    "DeFi press release",
+    "NFT announcement",
+    "crypto SEO",
+    "token launch PR",
+    "BuyCryptoPressRelease",
+    "crypto marketing"
+  ]
+}

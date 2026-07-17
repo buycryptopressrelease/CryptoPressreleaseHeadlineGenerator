@@ -1,0 +1,37 @@
+{
+  "name": "@buycryptopressrelease/headline-generator",
+  "version": "1.0.0",
+  "description": "AI-powered tool generating compelling, newsworthy, and SEO-friendly headlines for cryptocurrency, blockchain, Web3, NFT, DeFi, and fintech press releases. Powered by BuyCryptoPressRelease.com",
+  "main": "index.js",
+  "bin": {
+    "crypto-headline-generator": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto-press-release",
+    "headline-generator",
+    "blockchain-pr",
+    "web3-headlines",
+    "defi-press-release",
+    "nft-announcement",
+    "crypto-seo",
+    "token-launch-pr",
+    "buycryptopressrelease",
+    "crypto-marketing",
+    "press-release-generator",
+    "crypto-headlines"
+  ],
+  "author": "BuyCryptoPressRelease.com",
+  "license": "MIT",
+  "homepage": "https://www.buycryptopressrelease.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buycryptopressrelease/CryptoPressreleaseHeadlineGenerator"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

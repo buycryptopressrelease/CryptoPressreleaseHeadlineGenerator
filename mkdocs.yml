@@ -1,0 +1,21 @@
+site_name: CryptoPressRelease Headline Generator
+site_url: https://cryptopressrelease-headline-generator.readthedocs.io
+site_description: AI-powered tool generating compelling, newsworthy, and SEO-friendly headlines for cryptocurrency, blockchain, Web3, NFT, DeFi, and fintech press releases.
+site_author: BuyCryptoPressRelease.com
+
+repo_name: buycryptopressrelease/CryptoPressreleaseHeadlineGenerator
+repo_url: https://github.com/buycryptopressrelease/CryptoPressreleaseHeadlineGenerator
+
+theme:
+  name: material
+  palette:
+    primary: orange
+    accent: deep-orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

@@ -1,0 +1,52 @@
+{
+  "title": "CryptoPressRelease Headline Generator",
+  "description": "An AI-powered tool designed to generate compelling, newsworthy, and SEO-friendly headlines for cryptocurrency, blockchain, Web3, NFT, DeFi, and fintech press releases. Built by BuyCryptoPressRelease.com.",
+  "creators": [
+    {
+      "name": "BuyCryptoPressRelease.com"
+    }
+  ],
+  "keywords": [
+    "crypto press release",
+    "headline generator",
+    "blockchain PR",
+    "Web3 headlines",
+    "DeFi press release",
+    "NFT announcement",
+    "crypto SEO",
+    "token launch PR",
+    "BuyCryptoPressRelease",
+    "crypto marketing"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/buycryptopressrelease/CryptoPressreleaseHeadlineGenerator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.buycryptopressrelease.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@buycryptopressrelease/headline-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/buycryptopressrelease/headline-generator-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
