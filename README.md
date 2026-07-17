@@ -1,7 +1,7 @@
 # CryptoPressRelease Headline Generator 📰⚡
 
 [![npm](https://img.shields.io/npm/v/@buycryptopressrelease/headline-generator)](https://npmjs.com/package/@buycryptopressrelease/headline-generator)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21415210.svg)](https://doi.org/10.5281/zenodo.21415210)
 
 An AI-powered tool designed to generate compelling, newsworthy, and SEO-friendly headlines for cryptocurrency, blockchain, Web3, NFT, DeFi, and fintech press releases. Built by [BuyCryptoPressRelease.com](https://www.buycryptopressrelease.com).
 
@@ -131,7 +131,7 @@ Crypto Press Release · Headline Generator · Blockchain PR · Web3 Headlines ·
 | NPM | https://npmjs.com/package/@buycryptopressrelease/headline-generator |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/headline-generator-benchmarks |
 | Kaggle | https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21415210 |
 | Docs | https://cryptopressrelease-headline-generator.readthedocs.io |
 
 ## About BuyCryptoPressRelease.com
