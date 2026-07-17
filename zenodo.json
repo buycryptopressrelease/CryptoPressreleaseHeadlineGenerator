@@ -21,7 +21,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+   "doi": "10.5281/zenodo.21415210",
   "related_identifiers": [
     {
       "identifier": "https://github.com/buycryptopressrelease/CryptoPressreleaseHeadlineGenerator",
@@ -32,6 +32,11 @@
       "identifier": "https://www.buycryptopressrelease.com",
       "relation": "isDocumentedBy",
       "scheme": "url"
+    },
+    {
+  "identifier": "https://zenodo.org/records/21415210",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
     },
     {
       "identifier": "https://npmjs.com/package/@buycryptopressrelease/headline-generator",
