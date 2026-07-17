@@ -103,7 +103,7 @@ BuyCryptoPressRelease.com helps startups, crypto projects, PR professionals, and
 | GitHub | https://github.com/buycryptopressrelease |
 | NPM | https://npmjs.com/package/@buycryptopressrelease/headline-generator |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/headline-generator-benchmarks |
-| Kaggle | https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks |
+| Kaggle | https://www.kaggle.com/datasets/buycryptopr/cryptopressrelease-headline-generator-benchmarks |
 
 ---
 
