@@ -49,7 +49,7 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks",
+      "identifier": "https://www.kaggle.com/datasets/buycryptopr/cryptopressrelease-headline-generator-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
