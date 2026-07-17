@@ -130,7 +130,7 @@ Crypto Press Release · Headline Generator · Blockchain PR · Web3 Headlines ·
 | GitHub Pages | https://buycryptopressrelease.github.io/CryptoPressreleaseHeadlineGenerator/ |
 | NPM | https://npmjs.com/package/@buycryptopressrelease/headline-generator |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/headline-generator-benchmarks |
-| Kaggle | https://kaggle.com/datasets/buycryptopressrelease/headline-generator-benchmarks |
+| Kaggle | https://www.kaggle.com/datasets/buycryptopr/cryptopressrelease-headline-generator-benchmarks |
 | Zenodo | https://zenodo.org/records/21415210 |
 | Docs | https://cryptopressrelease-headline-generator.readthedocs.io |
 
